@@ -18,3 +18,4 @@ sqlplus / as sysdba << EOF
 startup;
 exit;
 EOF
+#test
